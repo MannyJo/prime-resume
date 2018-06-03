@@ -1,5 +1,4 @@
 body {
- font: 16px serif Helvetica;
  background: url(tile.png); 
 }
 
@@ -7,6 +6,7 @@ body {
  width: 600px;
  margin-left: auto;
  margin-right: auto;
+ color: lightgrey;
 }
 
 #myinfo{
