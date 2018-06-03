@@ -1,6 +1,6 @@
 body {
  font: 16px serif Helvetica;
- background-color: lightgrey; 
+ background-color: url(tile.png); 
 }
 
 #container {
