@@ -9,6 +9,10 @@ body {
  color: lightgrey;
 }
 
+#myface {
+ float: right;
+}
+
 #myinfo{
  margin-bottom: 50px;
 }
