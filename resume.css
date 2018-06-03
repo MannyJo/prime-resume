@@ -6,6 +6,10 @@ body {
   border-bottom: 1px solid #999;
 }
 
+h4 {
+ float: left;
+}
+
 .date {
- float: right;
+ text-align: right;
 }
