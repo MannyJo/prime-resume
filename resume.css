@@ -9,6 +9,10 @@ body {
  margin-right: auto;
 }
 
+#myinfo{
+ margin-bottom: 50px;
+}
+
 .border {
  border-bottom: 1px solid #999;
 }
