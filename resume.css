@@ -16,12 +16,13 @@ body {
  box-shadow: 0px 0px 5px white;
 }
 
-#careerinfo{
- margin-top: 100px;
-}
-
 .border {
  border-bottom: 1px solid #999;
+}
+
+.border between {
+ margin-top: 30px;
+ margin-bottom: 30px;
 }
 
 .job-title {
@@ -30,8 +31,4 @@ body {
 
 .date {
  text-align: right;
-}
-
-#educationinfo{
- margin-top: 100px;
 }
