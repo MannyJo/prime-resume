@@ -11,6 +11,7 @@ body {
 
 #myface {
  float: right;
+ right: 20px;
 }
 
 #myinfo{
