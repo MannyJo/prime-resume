@@ -12,13 +12,12 @@ body {
 
 #myface {
  float: right;
- right: 20px;
  border-radius: 12px;
  box-shadow: 0px 0px 5px white;
 }
 
-#myinfo{
- margin-bottom: 50px;
+#careerinfo{
+ margin-top: 100px;
 }
 
 .border {
@@ -31,4 +30,8 @@ body {
 
 .date {
  text-align: right;
+}
+
+#education{
+ margin-top: 100px;
 }
